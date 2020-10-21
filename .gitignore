@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other stuff
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
